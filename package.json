@@ -1,5 +1,5 @@
 {
-    "name": "cytomine-client",
+    "name": "cytomine-client-c",
     "version": "0.0.0",
     "description": "Client to communicate with Cytomine API in javascript. For more information about Cytomine, go to http://www.cytomine.org.",
     "browser": "dist/cytomine-client.min.js",
